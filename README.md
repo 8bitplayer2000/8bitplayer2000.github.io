@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title: Welcome to the 8bitplayer2000 website!
+description: Come and stay for a while
 
 You can use the [editor on GitHub](https://github.com/8bitplayer2000/8bitplayer2000.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
